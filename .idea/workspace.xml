@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7974d8cc-44b0-49ae-b6a8-9828702d5e0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Worksheet" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UTV5lfK8a4G3WKqBXlnKnsh6Ze" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RunManager" selected="Kotlin script.DependencyInjection.ws.kts">
+    <configuration name="DependencyInjection.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="Scala" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/DependencyInjection.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/DependencyInjection.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullObject.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="Scala" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/NullObject.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/NullObject.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="Scala" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/Singleton.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/Singleton.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strategy.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="Scala" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/Strategy.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/Strategy.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueClass.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+      <module name="Scala" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/ValueClass.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/Kotlin/Worksheet/ValueClass.ws.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Kotlin/Worksheet" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin script.DependencyInjection.ws.kts" />
+        <item itemvalue="Kotlin script.NullObject.ws.kts" />
+        <item itemvalue="Kotlin script.ValueClass.ws.kts" />
+        <item itemvalue="Kotlin script.Singleton.ws.kts" />
+        <item itemvalue="Kotlin script.Strategy.ws.kts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7974d8cc-44b0-49ae-b6a8-9828702d5e0f" name="Default Changelist" comment="" />
+      <created>1575380390500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575380390500</updated>
+      <workItem from="1575380396077" duration="3643000" />
+      <workItem from="1575395180171" duration="8800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1651" y="45" key="#Project_Structure" timestamp="1575380533560">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state x="1651" y="45" key="#Project_Structure/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575380533560" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1575412701580">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/1440.-82.1680.1027/0.23.1440.808/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575401120899" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/1440.-82.1680.1027/0.23.1440.811/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575400316379" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/3120.-82.1680.1027/0.23.1440.808/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575412701580" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/3120.-82.1680.1027/0.23.1440.811/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575406897189" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/3120.-82.1680.1027/0.23.1440.821/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575394910863" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575382877864" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1575412701579">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/1440.-82.1680.1027/0.23.1440.808/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575401120898" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/1440.-82.1680.1027/0.23.1440.811/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575400316378" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/3120.-82.1680.1027/0.23.1440.808/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575412701579" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/3120.-82.1680.1027/0.23.1440.811/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575406897188" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/3120.-82.1680.1027/0.23.1440.821/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575394910862" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575382877862" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1575412701579">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/1440.-82.1680.1027/0.23.1440.808/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575401120898" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/1440.-82.1680.1027/0.23.1440.811/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575400316377" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/3120.-82.1680.1027/0.23.1440.808/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575412701579" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/3120.-82.1680.1027/0.23.1440.811/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575406897187" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/3120.-82.1680.1027/0.23.1440.821/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575394910861" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575382877862" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1575412701579">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/1440.-82.1680.1027/0.23.1440.808/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575401120899" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/1440.-82.1680.1027/0.23.1440.811/3120.-82.1680.1027@1440.-82.1680.1027" timestamp="1575400316379" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/3120.-82.1680.1027/0.23.1440.808/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575412701579" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/3120.-82.1680.1027/0.23.1440.811/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575406897189" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/3120.-82.1680.1027/0.23.1440.821/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575394910863" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575382877863" />
+    <state x="1868" y="181" key="IDE.errors.dialog" timestamp="1575380629472">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state x="1868" y="181" key="IDE.errors.dialog/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575380629472" />
+    <state x="1789" y="70" key="SettingsEditor" timestamp="1575381207941">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state x="1789" y="70" key="SettingsEditor/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575381207941" />
+    <state x="1973" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1575395186389">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state x="1973" y="264" key="com.intellij.ide.util.TipDialog/3120.-82.1680.1027/0.23.1440.808/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575395186389" />
+    <state x="1481" y="106" key="new project wizard" timestamp="1575380527166">
+      <screen x="1440" y="-82" width="1680" height="1027" />
+    </state>
+    <state x="1481" y="106" key="new project wizard/3120.-82.1680.1027/0.23.1440.822/1440.-82.1680.1027@1440.-82.1680.1027" timestamp="1575380527166" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Kotlin/Worksheet/ValueClass.ws.kts</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
